@@ -32,7 +32,7 @@ namespace EventHandlersDemo
             //Here we change the marks of this college student guy...so the event "TotalMarksHandler" gets fired again. 
             collegeStudent.TotalMarks = 99;
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
 
        
